@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @EndaLee
-- 👀 I’m interested in Cloud programming, Blockchain & BigData
-- 🌱 In path of learning Python myself
-- 📫 endalee96@gmail.com
+--freshy, comeback for Zhu
 
 <!---
 EndaLee/EndaLee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
